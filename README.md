@@ -10,7 +10,9 @@
 
 # Medições em banda larga (MONITEM)
 
-[Pós-processamento de medições com o MONITEM](https://github.com/vicentesousa/RNI_UFRN_ANATEL/blob/main/MonitEM_PP.ipynb)
+**Pós-processamento de medições com o MONITEM:**
+
+[Instruções e scripts de pós-processamento](https://github.com/vicentesousa/RNI_UFRN_ANATEL/blob/main/MonitEM_PP.ipynb)
 
 
 
